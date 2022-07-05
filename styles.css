@@ -1,0 +1,43 @@
+body {
+    margin: 0%;
+    font-family: 'Kantumruy Pro', sans-serif;
+}
+
+.big-font {
+    font-size: 60px;
+}
+
+.first-section {
+    position: relative;
+    text-align: center;
+    background-image: url(images/donation13.jpg);
+    margin-bottom: 150px;
+
+    color: white;
+    padding-top: 150px;
+
+}
+
+.font-weight {
+    color: white;
+    font-weight: 900;
+
+}
+
+.link-button {
+    padding: 10px;
+    text-decoration: none;
+    background-color: brown;
+    color: aliceblue;
+
+    border-radius: 20px;
+    font-weight: 900;
+}
+
+.second-section {
+    text-align: center;
+}
+
+#gray-color {
+    color: gray;
+}
