@@ -25,12 +25,13 @@ body {
 }
 
 .link-button {
-    padding: 10px;
+
+    padding: 5px 10px;
     text-decoration: none;
     background-color: brown;
     color: aliceblue;
 
-    border-radius: 20px;
+    border-radius: 5px;
     font-weight: 900;
 }
 
@@ -39,5 +40,35 @@ body {
 }
 
 #gray-color {
+    color: gray;
+}
+
+.inline {
+    display: inline;
+    color: gray;
+}
+
+.border {
+    border: 2px solid brown;
+    padding: 10px;
+    color: brown;
+}
+
+.other {
+    color: gray;
+    padding-top: 20px;
+}
+
+hr {
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.plan {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.help {
     color: gray;
 }
