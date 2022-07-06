@@ -72,3 +72,32 @@ hr {
 .help {
     color: gray;
 }
+
+.experience-area {
+    text-align: center;
+    display: flex;
+    width: 50%;
+    padding-left: 300px;
+}
+
+#first {
+    text-align: center;
+    margin: 30px;
+    background-color: bisque;
+
+
+}
+
+#second {
+    margin: 30px;
+    text-align: center;
+    background-color: whitesmoke;
+
+}
+
+#third {
+    margin: 30px;
+    text-align: center;
+    background-color: antiquewhite;
+
+}
